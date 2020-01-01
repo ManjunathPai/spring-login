@@ -1,5 +1,5 @@
 package com.gpch.login.model;
-
+//Import statements
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
